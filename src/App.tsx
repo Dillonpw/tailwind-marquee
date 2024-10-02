@@ -2,7 +2,7 @@ import Scroll from "./components/scroll";
 
 function App() {
   return (
-    <main>
+    <main className="flex items-center justify-center">
       <Scroll />
     </main>
   );
